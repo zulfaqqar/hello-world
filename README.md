@@ -1,2 +1,5 @@
 # hello-world
-just another repository 
+
+Hi Human!
+
+my name is mohd zul faqqar. Im beginner in GitHub.
